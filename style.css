@@ -4,11 +4,11 @@
   핵심 색은 아래 --accent 한 줄만 바꾸면 됩니다.
 */
 :root {
-  --accent: #A50034;        /* ← 이 색을 바꿔보세요 (지금은 빨강 계열) */
-  --bg: #f7f7f8;
-  --card: #ffffff;
-  --text: #1a1a1a;
-  --muted: #6b7280;
+  --accent: #f97316;        /* 오렌지 */
+  --bg: #1a1a2e;
+  --card: #16213e;
+  --text: #e2e8f0;
+  --muted: #94a3b8;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
